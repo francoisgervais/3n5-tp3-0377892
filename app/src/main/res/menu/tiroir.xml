@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/accueil_item"
+        android:checkable="true"
+        android:icon="@drawable/ic_home"
+        android:title="Accueil" />
+    <item
+        android:id="@+id/ajouter_item"
+        android:checkable="true"
+        android:icon="@drawable/ic_add_comment"
+        android:title="Ajouter un sujet" />
+    <item
+        android:id="@+id/supprimer_votes"
+        android:checkable="true"
+        android:icon="@drawable/ic_delete"
+        android:title="Suppr. les votes" />
+    <item
+        android:id="@+id/supprimer_items"
+        android:checkable="true"
+        android:icon="@drawable/ic_delete"
+        android:title="Suppr. les items" />
+</menu>

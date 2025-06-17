@@ -1,0 +1,4 @@
+[![Build](https://github.com/Travaux-et-remises/tp3-0377892/actions/workflows/build.yml/badge.svg)](https://github.com/Travaux-et-remises/tp3-0377892/actions/workflows/build.yml)
+[![Test](https://github.com/Travaux-et-remises/tp3-0377892/actions/workflows/test.yml/badge.svg)](https://github.com/Travaux-et-remises/tp3-0377892/actions/workflows/test.yml)
+[![Lint](https://github.com/Travaux-et-remises/tp3-0377892/actions/workflows/lint.yml/badge.svg)](https://github.com/Travaux-et-remises/tp3-0377892/actions/workflows/lint.yml)
+[![Deploy](https://github.com/Travaux-et-remises/tp3-0377892/actions/workflows/deploy.yml/badge.svg)](https://github.com/Travaux-et-remises/tp3-0377892/actions/workflows/deploy.yml)
